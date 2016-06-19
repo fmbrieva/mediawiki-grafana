@@ -13,3 +13,8 @@ There is a demo at http://www.delegacionprovincial.com/mediawiki/index.php/Gesti
 - Add `require_once "$IP/extensions/Grafana/Grafana.php";` to your `LocalSettings.php` file (near the end)
 
 (More details about installation at https://www.mediawiki.org/wiki/Extension:Grafana#Installation
+
+# Credits
+This extension works with:
+- MediaWiki https://www.mediawiki.org
+- Grafana http://grafana.org/
