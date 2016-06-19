@@ -18,3 +18,5 @@ There is a demo at http://www.delegacionprovincial.com/mediawiki/index.php/Gesti
 This extension works with:
 - MediaWiki https://www.mediawiki.org
 - Grafana http://grafana.org/
+
+![](https://upload.wikimedia.org/wikipedia/mediawiki/7/7b/Grafana_Screenshot.png)
