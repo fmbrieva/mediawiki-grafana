@@ -4,9 +4,9 @@ This is an extension for viewing **Grafana** panels in Mediawiki
 
 Documentation can be found at http://www.mediawiki.org/wiki/Extension:Grafana
 
-There is a demo at http://www.delegacionprovincial.com/mediawiki/index.php/Gestion_Online:GrafanaCheck
+There is a demo at [See it in action](http://www.delegacionprovincial.com/mediawiki/index.php/Gestion_Online:GrafanaCheck)
 
-# Installation
+## Installation
 
 - Download extension, extract files to a folder and rename folder as `Grafana`.
 - Upload `Grafana` folder to your extensions directory from the root of your MediaWiki installation.
@@ -14,10 +14,10 @@ There is a demo at http://www.delegacionprovincial.com/mediawiki/index.php/Gesti
 
 (More details about installation at https://www.mediawiki.org/wiki/Extension:Grafana#Installation
 
-# Screenshot (Mediawiki + Grafana extension)
+## Screenshot (Mediawiki + Grafana extension)
 ![](https://upload.wikimedia.org/wikipedia/mediawiki/7/7b/Grafana_Screenshot.png)
 
-# Credits
+## Credits
 This extension works with:
 - MediaWiki https://www.mediawiki.org
 - Grafana http://grafana.org/
