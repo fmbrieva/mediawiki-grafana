@@ -12,7 +12,7 @@ Documentation can be found at [Mediawiki (Extension Grafana)](http://www.mediawi
 - Upload `Grafana` folder to your extensions directory from the root of your MediaWiki installation.
 - Add `require_once "$IP/extensions/Grafana/Grafana.php";` to your `LocalSettings.php` file (near the end)
 
-(More details about installation at https://www.mediawiki.org/wiki/Extension:Grafana#Installation
+(More details about installation at [Extension:Grafana#installation](https://www.mediawiki.org/wiki/Extension:Grafana#Installation))
 
 ## Screenshot (Mediawiki + Grafana extension)
 ![](https://upload.wikimedia.org/wikipedia/mediawiki/7/7b/Grafana_Screenshot.png)
