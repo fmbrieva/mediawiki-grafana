@@ -14,10 +14,11 @@ There is a demo at http://www.delegacionprovincial.com/mediawiki/index.php/Gesti
 
 (More details about installation at https://www.mediawiki.org/wiki/Extension:Grafana#Installation
 
+# Screenshot
+![](https://upload.wikimedia.org/wikipedia/mediawiki/7/7b/Grafana_Screenshot.png)
+
 # Credits
 This extension works with:
 - MediaWiki https://www.mediawiki.org
 - Grafana http://grafana.org/
 
-# Screenshot
-![](https://upload.wikimedia.org/wikipedia/mediawiki/7/7b/Grafana_Screenshot.png)
