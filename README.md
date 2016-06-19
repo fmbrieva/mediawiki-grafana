@@ -2,9 +2,9 @@
 
 This is an extension for viewing **Grafana** panels in Mediawiki
 
-Documentation can be found at http://www.mediawiki.org/wiki/Extension:Grafana
+Documentation can be found at [Mediawiki](http://www.mediawiki.org/wiki/Extension:Grafana)
 
-There is a demo at [See it in action](http://www.delegacionprovincial.com/mediawiki/index.php/Gestion_Online:GrafanaCheck)
+[See a demo of Grafana extension](http://www.delegacionprovincial.com/mediawiki/index.php/Gestion_Online:GrafanaCheck)
 
 ## Installation
 
