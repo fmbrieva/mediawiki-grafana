@@ -1,6 +1,6 @@
 # mediawiki-grafana
 
-This is an extension for viewing **Grafana** panels in Mediawiki
+This is an extension for viewing [**Grafana**](http://grafana.org/) panels in Mediawiki
 
 Documentation can be found at [Mediawiki (Extension:Grafana)](http://www.mediawiki.org/wiki/Extension:Grafana)
 
