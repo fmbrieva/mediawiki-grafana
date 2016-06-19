@@ -2,7 +2,7 @@
 
 This is an extension for viewing **Grafana** panels in Mediawiki
 
-Documentation can be found at [Mediawiki](http://www.mediawiki.org/wiki/Extension:Grafana)
+Documentation can be found at [Mediawiki (Extension Grafana)](http://www.mediawiki.org/wiki/Extension:Grafana)
 
 [See a demo of Grafana extension](http://www.delegacionprovincial.com/mediawiki/index.php/Gestion_Online:GrafanaCheck)
 
