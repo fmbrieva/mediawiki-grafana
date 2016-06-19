@@ -4,7 +4,7 @@ This is an extension for viewing **Grafana** panels in Mediawiki
 
 Documentation can be found at http://www.mediawiki.org/wiki/Extension:Grafana
 
-There is a demo at http://www.delegacionprovincial.com/mediawiki/index.php/Gestion_Online:IcingaNagvis16
+There is a demo at http://www.delegacionprovincial.com/mediawiki/index.php/Gestion_Online:GrafanaCheck
 
 # Installation
 
