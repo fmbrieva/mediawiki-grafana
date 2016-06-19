@@ -19,4 +19,5 @@ This extension works with:
 - MediaWiki https://www.mediawiki.org
 - Grafana http://grafana.org/
 
+# Screenshot
 ![](https://upload.wikimedia.org/wikipedia/mediawiki/7/7b/Grafana_Screenshot.png)
